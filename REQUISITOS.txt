@@ -1,0 +1,29 @@
+O app é feito com o intuito de facilitar o uso e a organizações de notas.
+
+FRONT
+
+- O usuário poderá criar uma nota.
+- O usuário terá um calendário ao lado que poderá escolher um range de notas
+para visualizar.
+- O usuário poderá excluir uma nota.
+- O usuário poderá editar a nota ao clicar no card, ele abrirá um modal e ao final
+terá a opção de excluir junto ao salvar.
+- Ao criar a nota é salvo a data que ele criou a nota. DONE
+- Utilizar o máximo do Chackra UI na criação dos componentes DONE
+- Aprender e pesquisar um bom componente para o calendário. DONE
+- Barra de Navegação com search Bar DONE
+
+
+GERAL
+
+- Simples é melhor do que complexo.
+- Configurar o yarn workspaces. DONE
+- Rodando os dois apps de forma concorrente DONE
+
+API
+
+- Aprender sobre como usar o koajs
+- Modelar as entidades utilizando TypeORM DONE
+- Configurar o cors
+- Rota para criar uma nova tarefa DONE
+- Criar rota para retornar tarefas em um range entre datas. DONE
