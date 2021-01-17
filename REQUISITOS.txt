@@ -2,9 +2,9 @@ O app é feito com o intuito de facilitar o uso e a organizações de notas.
 
 FRONT
 
-- O usuário poderá criar uma nota.
+- O usuário poderá criar uma nota. DONE
 - O usuário terá um calendário ao lado que poderá escolher um range de notas
-para visualizar.
+para visualizar. DONE.
 - O usuário poderá excluir uma nota.
 - O usuário poderá editar a nota ao clicar no card, ele abrirá um modal e ao final
 terá a opção de excluir junto ao salvar.
@@ -24,6 +24,6 @@ API
 
 - Aprender sobre como usar o koajs
 - Modelar as entidades utilizando TypeORM DONE
-- Configurar o cors
+- Configurar o cors DONE
 - Rota para criar uma nova tarefa DONE
 - Criar rota para retornar tarefas em um range entre datas. DONE
